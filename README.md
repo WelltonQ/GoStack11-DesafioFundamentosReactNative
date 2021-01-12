@@ -112,8 +112,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 ---
 
-<!-- <p align="center">
-<img alt="DesafioFundamentosReactNative" src="" />
-</p> -->
+<p align="center">
+<img alt="DesafioFundamentosReactNative" src="https://user-images.githubusercontent.com/12499627/104365412-b88f0200-54f6-11eb-90d1-692821543a31.png" />
+</p>
 
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
